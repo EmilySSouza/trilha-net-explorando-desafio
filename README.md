@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Desafui Hospedagem
+# DIO - Trilha .NET - Desafio Hospedagem
 www.dio.me
 
 ## Desafio de projeto
